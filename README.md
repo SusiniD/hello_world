@@ -1,4 +1,4 @@
 # hello_world
-A hello world repository edit
+Some hello world repository.
 
 Hey it's susiniD here. 
